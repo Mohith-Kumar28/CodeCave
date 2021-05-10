@@ -1,0 +1,27 @@
+<svg id="Component_5_1" data-name="Component 5 – 1" xmlns="http://www.w3.org/2000/svg" width="220" height="160" viewBox="0 0 220 160">
+  <g id="Component_4_1" data-name="Component 4 – 1" transform="translate(0 14)">
+    <g id="Rectangle_1" data-name="Rectangle 1" fill="rgba(255,255,255,0)" stroke="#000" stroke-width="7">
+      <rect width="217" height="128" stroke="none"/>
+      <rect x="3.5" y="3.5" width="210" height="121" fill="none"/>
+    </g>
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="63" height="104" transform="translate(15 13)"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="59" height="88" transform="translate(22 21)" fill="#fff"/>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="34" height="51" transform="translate(81 13)"/>
+    <rect id="Rectangle_5" data-name="Rectangle 5" width="26" height="43" transform="translate(85 17)" fill="#fff"/>
+  </g>
+  <text id="D" transform="translate(113)" font-size="71" font-family="SegoeUI, Segoe UI" letter-spacing="0.001em"><tspan x="0" y="77">D</tspan></text>
+  <path id="Icon_awesome-mountain" data-name="Icon awesome-mountain" d="M35.714,38.641,19.514,1.228A1.773,1.773,0,0,0,18,0a1.773,1.773,0,0,0-1.514,1.228L.286,38.641A3.812,3.812,0,0,0,.22,41.367,1.844,1.844,0,0,0,1.8,42.759H34.2a1.843,1.843,0,0,0,1.58-1.392,3.81,3.81,0,0,0-.066-2.725ZM18,7.615l4.8,11.092H18l-3.6,5.345-2.141-3.178Z" transform="translate(82 86.108)" fill="#309317"/>
+  <text id="V" transform="translate(118 63)" font-size="60" font-family="SegoeUI, Segoe UI" letter-spacing="0.001em"><tspan x="0" y="65">V</tspan></text>
+  <rect id="Rectangle_6" data-name="Rectangle 6" width="42" height="83" transform="translate(162 29)"/>
+  <rect id="Rectangle_7" data-name="Rectangle 7" width="40" height="31" transform="translate(170 35)" fill="#fff"/>
+  <rect id="Rectangle_8" data-name="Rectangle 8" width="37" height="31" transform="translate(170 74)" fill="#fff"/>
+  <g id="Rectangle_9" data-name="Rectangle 9" transform="translate(162 116)" fill="none" stroke="#000" stroke-width="2.5">
+    <rect width="42" height="9" stroke="none"/>
+    <rect x="1.25" y="1.25" width="39.5" height="6.5" fill="none"/>
+  </g>
+  <g id="Rectangle_10" data-name="Rectangle 10" transform="translate(162 128)" stroke="#000" stroke-width="1.5">
+    <rect width="36" height="5" stroke="none"/>
+    <rect x="0.75" y="0.75" width="34.5" height="3.5" fill="none"/>
+  </g>
+  <rect id="Rectangle_11" data-name="Rectangle 11" width="5" height="5" transform="translate(199 128)" fill="#309317"/>
+</svg>
