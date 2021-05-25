@@ -61,7 +61,7 @@ nav{
 
 .hero .container {
 padding-top: 2em;
-    margin: 2em;
+    margin: 0.5em;
     display: flex;
     align-items: center;
     place-content: space-between;
@@ -169,7 +169,7 @@ cursor: pointer;
 cursor: pointer;
 }
 img#hero_img{
-    width: 70%;
+    width: 85%;
     /* z-index: 10; */
 }
 /* .about .container {
