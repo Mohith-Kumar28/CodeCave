@@ -552,7 +552,7 @@ footer p{
 }
 @media only screen and (max-width :417px){
     .heroanim{
-       font-size: 0.8em;
+       font-size: 1em;
     }
     .partners{
         padding: 0em 0.4em;
